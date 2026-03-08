@@ -1,5 +1,15 @@
 # Employee Attrition Analysis & Workforce Insights
 
+## Table of Contents
+- Overview
+- Problem Statement
+- Tools and Methodology
+- Analysis Findings
+- Assumptions
+- Limitations
+- Recommendations
+
+## Overview
 This project analyzes employee data to understand workforce trends and identify factors that contribute to employee attrition.
 
 ## Objectives
