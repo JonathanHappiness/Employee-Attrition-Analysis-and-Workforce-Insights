@@ -21,14 +21,19 @@ The data used for this analysis was an anonymous employee attrition dataset. The
 To support informed decision-making, this analysis addresses the following critical business challenges:
 
 Workforce Structural Ordering & Visibility: Employee data is not systematically organized to provide clear visibility into workforce distribution by age, department, and tenure, limiting structured review and comparative analysis.
+
 Workforce Experience & Cumulative Metrics: There is no consolidated assessment of total workforce tenure, cumulative age, prior work exposure, and overall attrition volume, restricting evaluation of organizational experience depth.
+
 Workforce Averages & Demographic Patterns: Average age, tenure levels, and demographic trends across departments and education fields are not sufficiently analyzed, reducing insight into workforce maturity and stability patterns.
+
 Workforce Size & Distribution Analysis: The organization lacks comprehensive analysis of total workforce size, departmental distribution, education segmentation, and attrition breakdown necessary for structural workforce planning.
+
 Workforce Extremes & Risk Indicators: Minimum and maximum age and tenure values are not systematically evaluated, limiting identification of succession risk, experience concentration, and potential workforce imbalance.
 
 ## Tools and Methodology
 Tool Used
 SQL (PostgreSQL)
+
 Methodology
 Conducted structured SQL-based analysis using sorting, aggregation (SUM, AVG, COUNT, MIN, MAX), and conditional filtering techniques to evaluate workforce demographics, tenure patterns, departmental distribution, and attrition trends.
 
